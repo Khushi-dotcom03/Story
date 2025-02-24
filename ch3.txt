@@ -1,0 +1,20 @@
+Chapter 3: The Merge  
+----------------------  
+
+All was not as simple as it seemed.  
+A new branch had appeared, carrying changes unknown.  
+
+Conflicts brewed in the code, a battle between versions.  
+The coder knew what had to be done.  
+
+With steady hands, they typed:  
+
+git merge feature-branch  
+
+Warnings flashed. Lines clashed.  
+But through patience and precision, harmony was restored.  
+
+The repository stood united once more.  
+The coder leaned back, victorious.  
+
+But little did they know... another change was coming.  
